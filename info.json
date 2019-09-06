@@ -46,7 +46,7 @@
         },
         "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
         "templates": [
-		            {
+		    {
                 "id": "5",
                 "title": "Zoomit Footer",
                 "thumbnail": "https://dl.dropboxusercontent.com/s/ma6fjbealu3ojev/ZoomitFooter.png",
