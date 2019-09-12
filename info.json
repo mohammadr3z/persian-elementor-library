@@ -47,6 +47,21 @@
         "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
         "templates": [
 			{
+                "id": "7",
+                "title": "MihanWP Header",
+                "thumbnail": "https://dl.dropboxusercontent.com/s/ivzz7jx6hbh0ou2/MihanWPHeader.png",
+                "tmpl_created": "0910201911",
+                "author": "Persian Elementor",
+                "url": "https://library.elementorfa.ir/mihanwp-header/",
+                "type": "block",
+                "subtype": "header",
+                "tags": "[\"header\"]",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
+                "has_page_settings": "0"
+            },
+			{
                 "id": "6",
                 "title": "Zoomg Header",
                 "thumbnail": "https://dl.dropboxusercontent.com/s/3x6ztw69kq62g2v/ZoomgHeader.png",
