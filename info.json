@@ -662,12 +662,8 @@
         ,
         {
             "id": "11461", "title": "GYM", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2019\/08\/Header_Small.png", "tmpl_created": "1567393219", "author": "Elementor", "url": "https:\/\/library.elementor.com\/blocks\/gym\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "block", "subtype": "header", "tags": "[\"Gym\",\"header\"]", "menu_order": "0", "popularity_index": "320", "trend_index": "115", "is_pro": "1", "has_page_settings": "0"
-        }  
-		,		
-		{
-            "id": "3", "title": "Zoomit", "thumbnail": "https:\/\/library.elementorfa.ir\/Screenshot_2.png", "tmpl_created": "1567393219", "author": "Elementor", "url": "https:\/\/library.elementorfa.ir\/zoomit-header", "type": "block", "subtype": "header", "tags": "[\"header\"]", "menu_order": "0", "popularity_index": "320", "trend_index": "115", "is_pro": "1", "has_page_settings": "0"
         }
-        ,
+		,	
         {
             "id": "5893", "title": "CTA 21", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2018\/03\/cta_black_12.png", "tmpl_created": "1520520752", "author": "Elementor", "url": "https:\/\/library.elementor.com\/blocks\/cta-21\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "block", "subtype": "call to action", "tags": "[\"cta\"]", "menu_order": "0", "popularity_index": "246", "trend_index": "238", "is_pro": "0", "has_page_settings": "0"
         }
