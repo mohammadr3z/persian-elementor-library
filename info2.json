@@ -1,0 +1,531 @@
+{
+    "timestamp":1580716795,
+    "upgrade_notice": {
+        "version": "2.0.0", "message": "", "update_link": ""
+    }
+    ,
+    "library": {
+        "types_data": {
+            "block": {
+                "categories": ["404 page", "about", "archive", "call to action", "clients", "contact", "faq", "features", "footer", "header", "hero", "portfolio", "pricing", "product archive", "services", "single page", "single post", "single product", "stats", "subscribe", "team", "testimonials"]
+            }
+            ,
+            "popup": {
+                "categories": ["bottom bar", "classic", "fly-in", "full screen", "hello bar", "slide-in"]
+            }
+        }
+        ,
+        "categories":"[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
+        "templates":[ {
+            "id": "5525", "title": "About 14", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2018\/03\/about_white_10.png", "tmpl_created": "1520443532", "author": "Elementor", "url": "https:\/\/library.elementor.com\/blocks\/about-14\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "block", "subtype": "about", "tags": "[\"About\"]", "menu_order": "0", "popularity_index": "12", "trend_index": "8", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "10107", "title": "Classic | Promotion | Announcement", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2019\/01\/balls_small.png", "tmpl_created": "1547851373", "author": "Elementor", "url": "https:\/\/library.elementor.com\/popups\/classic-promotion-announcement\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "popup", "subtype": "classic", "tags": "[]", "menu_order": "0", "popularity_index": "286", "trend_index": "314", "is_pro": "1", "has_page_settings": "1"
+        }
+        ,
+        {
+            "id": "256", "title": "Contact &#8211; Restaurant", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/08\/0011.png", "tmpl_created": "1470829796", "author": "Elementor", "url": "https:\/\/library.elementor.com\/contact-restaurant\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "137", "popularity_index": "104", "trend_index": "126", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2150", "title": "Contact &#8211; Cake Shop", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/07\/cake-contact.png", "tmpl_created": "1499774127", "author": "Elementor", "url": "https:\/\/library.elementor.com\/contact-cake-shop\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "138", "popularity_index": "55", "trend_index": "91", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "223", "title": "Contact &#8211; Hotel", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/08\/0002.png", "tmpl_created": "1470820471", "author": "Elementor", "url": "https:\/\/library.elementor.com\/contact-hotel\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "139", "popularity_index": "101", "trend_index": "200", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "24", "title": "Contact &#8211; Corporate", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/08\/0012.png", "tmpl_created": "1470248619", "author": "Elementor", "url": "https:\/\/library.elementor.com\/contact-corporate\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "140", "popularity_index": "13", "trend_index": "10", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "184", "title": "Services &#8211; Moving", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/08\/0017.png", "tmpl_created": "1470829889", "author": "Elementor", "url": "https:\/\/library.elementor.com\/services-moving\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "141", "popularity_index": "23", "trend_index": "20", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "625", "title": "Services &#8211; Cake Shop Menu", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/12\/cake-shop-menu.jpg", "tmpl_created": "1481549196", "author": "Elementor", "url": "https:\/\/library.elementor.com\/services-cake-shop-menu\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "142", "popularity_index": "476", "trend_index": "613", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "187", "title": "Services &#8211; Fun", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/08\/0001.png", "tmpl_created": "1470829892", "author": "Elementor", "url": "https:\/\/library.elementor.com\/services-fun\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "143", "popularity_index": "58", "trend_index": "156", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "238", "title": "Services &#8211; Consulting", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/08\/0014.png", "tmpl_created": "1470829865", "author": "Elementor", "url": "https:\/\/library.elementor.com\/services-consulting\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "144", "popularity_index": "21", "trend_index": "42", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "647", "title": "Services &#8211; Coffee Shop Menu", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/12\/restaurant-menu.jpg", "tmpl_created": "1481549320", "author": "Elementor", "url": "https:\/\/library.elementor.com\/services-coffee-shop-menu\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "145", "popularity_index": "407", "trend_index": "421", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2138", "title": "Services &#8211; Delivery Company", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/07\/delivery-services.png", "tmpl_created": "1499774119", "author": "Elementor", "url": "https:\/\/library.elementor.com\/services-delivery-company\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "146", "popularity_index": "353", "trend_index": "572", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "823", "title": "Pricing &#8211; App", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/01\/pricing-app.jpg", "tmpl_created": "1485272966", "author": "Elementor", "url": "https:\/\/library.elementor.com\/pricing-app-2\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "147", "popularity_index": "327", "trend_index": "407", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "824", "title": "Pricing &#8211; Software", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/01\/pricing-software.png", "tmpl_created": "1485272900", "author": "Elementor", "url": "https:\/\/library.elementor.com\/pricing-software-2\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "148", "popularity_index": "347", "trend_index": "431", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "825", "title": "Product &#8211; Speakers", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/01\/product-page.jpg", "tmpl_created": "1485272513", "author": "Elementor", "url": "https:\/\/library.elementor.com\/product-speakers\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "149", "popularity_index": "360", "trend_index": "468", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "245", "title": "Product &#8211; Clean", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/08\/0020.png", "tmpl_created": "1470829876", "author": "Elementor", "url": "https:\/\/library.elementor.com\/product-clean\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"fast\",\"minimal\",\"minimalistic\",\"seo\",\"simple\"]", "menu_order": "150", "popularity_index": "69", "trend_index": "146", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1075", "title": "Shop &#8211; Sweets", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Sweets.png", "tmpl_created": "1488810871", "author": "Elementor", "url": "https:\/\/library.elementor.com\/shop-sweets\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"bakery\",\"beverage\",\"business\",\"cafe\",\"candy bar\",\"catering\",\"delivery service\",\"Food\",\"online shop\",\"pastry\",\"Restaurant\",\"store\",\"sweet shop\",\"sweets\"]", "menu_order": "151", "popularity_index": "50", "trend_index": "67", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1051", "title": "Blog Post &#8211; Launch", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/post-cloud.png", "tmpl_created": "1488810869", "author": "Elementor", "url": "https:\/\/library.elementor.com\/blog-post-launch\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"Agency\",\"bootstrap\",\"business\",\"corporate\",\"Landing Page\",\"launch\",\"marketing campaign\",\"marketing landing page\",\"marketing template landing page\",\"product launch\",\"software\",\"Startup\",\"startup landing page\"]", "menu_order": "152", "popularity_index": "16", "trend_index": "17", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1245", "title": "Coming Soon 1", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Coming-Soon-1.png", "tmpl_created": "1491207184", "author": "Elementor", "url": "https:\/\/library.elementor.com\/coming-soon-1\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "153", "popularity_index": "249", "trend_index": "394", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1247", "title": "Coming Soon 2", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Coming-Soon-2.png", "tmpl_created": "1491207138", "author": "Elementor", "url": "https:\/\/library.elementor.com\/coming-soon-2\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "154", "popularity_index": "28", "trend_index": "40", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1248", "title": "Coming Soon 3", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Coming-Soon-3.png", "tmpl_created": "1491207050", "author": "Elementor", "url": "https:\/\/library.elementor.com\/coming-soon-3\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "155", "popularity_index": "364", "trend_index": "457", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1249", "title": "Coming Soon 4", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Coming-Soon-4.png", "tmpl_created": "1491207380", "author": "Elementor", "url": "https:\/\/library.elementor.com\/coming-soon-4\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "156", "popularity_index": "393", "trend_index": "459", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1250", "title": "Coming Soon 5", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Coming-Soon-5.png", "tmpl_created": "1491207450", "author": "Elementor", "url": "https:\/\/library.elementor.com\/coming-soon-5\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "157", "popularity_index": "61", "trend_index": "121", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1260", "title": "Maintenance Mode 1", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Coming-Soon-6.png", "tmpl_created": "1491207507", "author": "Elementor", "url": "https:\/\/library.elementor.com\/maintenance-mode-1\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"Maintenance mode\"]", "menu_order": "158", "popularity_index": "402", "trend_index": "530", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1261", "title": "Maintenance Mode 2", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/04\/Coming-Soon-7.png", "tmpl_created": "1491207584", "author": "Elementor", "url": "https:\/\/library.elementor.com\/maintenance-mode-2\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"Maintenance mode\"]", "menu_order": "159", "popularity_index": "63", "trend_index": "172", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1272", "title": "Coming Soon 8", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Coming-Soon-8.png", "tmpl_created": "1491207674", "author": "Elementor", "url": "https:\/\/library.elementor.com\/coming-soon-8\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "160", "popularity_index": "268", "trend_index": "319", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1279", "title": "Coming Soon 9", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/03\/Coming-Soon-9.png", "tmpl_created": "1491207756", "author": "Elementor", "url": "https:\/\/library.elementor.com\/coming-soon-9\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "161", "popularity_index": "125", "trend_index": "283", "is_pro": "0", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1745", "title": "Coming Soon 10", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/05\/login-002.png", "tmpl_created": "1494849745", "author": "Elementor", "url": "https:\/\/library.elementor.com\/coming-soon-10\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "162", "popularity_index": "258", "trend_index": "357", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1742", "title": "Login Page 1", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/05\/login-003.png", "tmpl_created": "1494849744", "author": "Elementor", "url": "https:\/\/library.elementor.com\/login-page\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "163", "popularity_index": "387", "trend_index": "474", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "1748", "title": "Login Page 2", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/05\/login-001.png", "tmpl_created": "1494849742", "author": "Elementor", "url": "https:\/\/library.elementor.com\/login-page-2\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "164", "popularity_index": "282", "trend_index": "267", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3963", "title": "Restaurant Site &#8211; Homepage", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2018\/01\/R.HomepageThumb.png", "tmpl_created": "1516284821", "author": "Elementor", "url": "https:\/\/library.elementor.com\/restaurant-site-homepage\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"bar\",\"cafe\",\"cooking\",\"drink\",\"events\",\"fast food\",\"Food\",\"menu\",\"modern\",\"reservation\",\"Shop\",\"snack bar\"]", "menu_order": "165", "popularity_index": "227", "trend_index": "227", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3969", "title": "Restaurant Site &#8211; Menu", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2018\/01\/R.MenuThumb.png", "tmpl_created": "1516284829", "author": "Elementor", "url": "https:\/\/library.elementor.com\/restaurant-site-menu\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"bar\",\"cafe\",\"cooking\",\"drink\",\"events\",\"fast food\",\"Food\",\"menu\",\"modern\",\"reservation\",\"Shop\",\"snack bar\"]", "menu_order": "166", "popularity_index": "372", "trend_index": "460", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3966", "title": "Restaurant Site &#8211; About", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2018\/01\/R.AboutThumb.png.png", "tmpl_created": "1516284839", "author": "Elementor", "url": "https:\/\/library.elementor.com\/restaurant-site-about\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"bar\",\"cafe\",\"cooking\",\"drink\",\"events\",\"fast food\",\"Food\",\"menu\",\"modern\",\"reservation\",\"Shop\",\"snack bar\"]", "menu_order": "167", "popularity_index": "239", "trend_index": "348", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3972", "title": "Restaurant Site &#8211; Contact", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2018\/01\/R.ContactThumb.png", "tmpl_created": "1516284847", "author": "Elementor", "url": "https:\/\/library.elementor.com\/restaurant-site-contact\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[\"bar\",\"cafe\",\"cooking\",\"drink\",\"events\",\"fast food\",\"Food\",\"menu\",\"modern\",\"reservation\",\"Shop\",\"snack bar\"]", "menu_order": "168", "popularity_index": "343", "trend_index": "486", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2080", "title": "Ski Resort &#8211; Homepage", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/Ski-Resort-Home-Page.png", "tmpl_created": "1508161124", "author": "Elementor", "url": "https:\/\/library.elementor.com\/ski-resort-homepage\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "169", "popularity_index": "308", "trend_index": "410", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2088", "title": "Ski Resort &#8211; About", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/Ski-Resort-About.png", "tmpl_created": "1508161129", "author": "Elementor", "url": "https:\/\/library.elementor.com\/ski-resort-about\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "170", "popularity_index": "380", "trend_index": "492", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2085", "title": "Ski Resort &#8211; Services", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/Ski-Resort-Services.png", "tmpl_created": "1508161134", "author": "Elementor", "url": "https:\/\/library.elementor.com\/ski-resort-services\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "171", "popularity_index": "466", "trend_index": "599", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2462", "title": "Architect &#8211; About", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/architect-\u2013-about.png", "tmpl_created": "1508243317", "author": "Elementor", "url": "https:\/\/library.elementor.com\/architect-about\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "172", "popularity_index": "302", "trend_index": "389", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2362", "title": "Architect &#8211; Projects", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/Architect-Projects.png", "tmpl_created": "1508243335", "author": "Elementor", "url": "https:\/\/library.elementor.com\/architect-projects\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "173", "popularity_index": "369", "trend_index": "412", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "614", "title": "Architect &#8211; Contact", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/12\/architect-contact.jpg", "tmpl_created": "1481549169", "author": "Elementor", "url": "https:\/\/library.elementor.com\/architect-contact\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "174", "popularity_index": "270", "trend_index": "358", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2126", "title": "Construction Company &#8211; Homepage", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/Construction-Company-Home-Page.png", "tmpl_created": "1508325849", "author": "Elementor", "url": "https:\/\/library.elementor.com\/construction-company-homepage\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "175", "popularity_index": "262", "trend_index": "239", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2129", "title": "Construction Company &#8211; About", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/Construction-Company-About.png", "tmpl_created": "1508325881", "author": "Elementor", "url": "https:\/\/library.elementor.com\/construction-company-about\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "176", "popularity_index": "288", "trend_index": "449", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2135", "title": "Construction Company &#8211; Contact", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/Construction-Company-Contact.png", "tmpl_created": "1508325922", "author": "Elementor", "url": "https:\/\/library.elementor.com\/construction-company-contact\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "177", "popularity_index": "315", "trend_index": "441", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2094", "title": "Plants Shop &#8211; Homepage", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/11\/Plants-Shop-Home.png", "tmpl_created": "1509621053", "author": "Elementor", "url": "https:\/\/library.elementor.com\/plants-shop-homepage\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "178", "popularity_index": "266", "trend_index": "180", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "2120", "title": "Plants Shop &#8211; About", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/11\/Plants-Shop-About.png", "tmpl_created": "1509631820", "author": "Elementor", "url": "https:\/\/library.elementor.com\/plants-shop-about\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "179", "popularity_index": "323", "trend_index": "351", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3153", "title": "Halloween Pack", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/10\/halloween.png", "tmpl_created": "1508950132", "author": "Elementor", "url": "https:\/\/library.elementor.com\/halloween-pack\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "180", "popularity_index": "517", "trend_index": "0", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3338", "title": "Black Friday &#8211; Nature Set", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/11\/black-friday-1.png", "tmpl_created": "1511203351", "author": "Elementor", "url": "https:\/\/library.elementor.com\/black-friday-nature-set\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "181", "popularity_index": "453", "trend_index": "527", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3339", "title": "Black Friday &#8211; Pop-Styled Set", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/11\/black-friday-2.png", "tmpl_created": "1511203636", "author": "Elementor", "url": "https:\/\/library.elementor.com\/black-friday-pop-styled-set\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "182", "popularity_index": "413", "trend_index": "512", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3335", "title": "Black Friday &#8211; Retail Set", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/11\/black-friday-4.png", "tmpl_created": "1511203246", "author": "Elementor", "url": "https:\/\/library.elementor.com\/black-friday-retail-set\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "183", "popularity_index": "416", "trend_index": "475", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3340", "title": "Black Friday &#8211; Software Product Set", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/11\/black-friday-3.png", "tmpl_created": "1511203713", "author": "Elementor", "url": "https:\/\/library.elementor.com\/black-friday-software-product-set\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "184", "popularity_index": "401", "trend_index": "439", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3517", "title": "Christmas &#8211; Gift Shop", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/12\/XmasThumb.png", "tmpl_created": "1513877937", "author": "Elementor", "url": "https:\/\/library.elementor.com\/christmas-gift-shop\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "185", "popularity_index": "443", "trend_index": "559", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3734", "title": "Christmas &#8211; Car Agency", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/12\/cover-lib-v3.png", "tmpl_created": "1514197794", "author": "Elementor", "url": "https:\/\/library.elementor.com\/christmas-car-agency\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "186", "popularity_index": "432", "trend_index": "481", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3764", "title": "Christmas &#8211; Interior Design", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/12\/cover-lib-v6.png", "tmpl_created": "1514198234", "author": "Elementor", "url": "https:\/\/library.elementor.com\/christmas-interior-design\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "187", "popularity_index": "422", "trend_index": "602", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3565", "title": "Christmas &#8211; Tree Shop", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/12\/XmasTreeThumb.png", "tmpl_created": "1514204382", "author": "Elementor", "url": "https:\/\/library.elementor.com\/christmas-tree-shop\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "188", "popularity_index": "382", "trend_index": "546", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3862", "title": "Christmas &#8211; Design Conference", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/12\/q1.png", "tmpl_created": "1514206745", "author": "Elementor", "url": "https:\/\/library.elementor.com\/christmas-design-conference\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "189", "popularity_index": "366", "trend_index": "423", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "3777", "title": "Christmas &#8211; Snowboard Competition", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2017\/12\/cover-lib-v7.png", "tmpl_created": "1514205420", "author": "Elementor", "url": "https:\/\/library.elementor.com\/christmas-snowboard-competition\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "190", "popularity_index": "391", "trend_index": "417", "is_pro": "1", "has_page_settings": "0"
+        }
+        ,
+        {
+            "id": "420", "title": "Hero UI Kit", "thumbnail": "https:\/\/library.elementor.com\/wp-content\/uploads\/2016\/09\/library-ui-kit-cover.png", "tmpl_created": "1475067229", "author": "Elementor", "url": "https:\/\/library.elementor.com\/hero-ui-kit\/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview", "type": "page", "subtype": "page", "tags": "[]", "menu_order": "191", "popularity_index": "19", "trend_index": "52", "is_pro": "0", "has_page_settings": "0"
+        }
+        ]
+    }
+    ,
+    "feed":[ {
+        "title": "Celebrating 4 Million Active Installs \u2014 Vote for the Next Feature", "excerpt": "We are thrilled to announce today 4 million active installs! To celebrate this milestone, we invite you to vote for the next Elementor feature to be released!", "created": "1580318942", "badge": "Milestone", "url": "https:\/\/elementor.com\/blog\/4-million-active-installs\/?utm_source=wp-overview-widget&utm_medium=wp-dash&utm_campaign=news-feed"
+    }
+    ,
+    {
+        "title": "Monday Masterclass: How to Design Navigation Menus for WordPress", "excerpt": "This week we\u2019re looking at how at navigation menus and what makes them so critical to user experience and SEO ranking. We also review the 5 primary styles of menu design on WordPress websites, and examine the important do\u2019s & don\u2019ts to consider when designing nav-menus.", "created": "1579522814", "badge": "", "url": "https:\/\/elementor.com\/blog\/?p=35653&utm_source=wp-overview-widget&utm_medium=wp-dash&utm_campaign=news-feed"
+    }
+    ,
+    {
+        "title": "The Future of Building Websites With Adam Preiser", "excerpt": "WordPress influencer and entrepreneur Adam Preiser (WPCrafter) will join us for a special webinar with our head of content Ben Pines. Don't miss it!", "created": "1579162028", "badge": "", "url": "https:\/\/elementor.com\/blog\/webinar-adam-preiser\/?utm_source=wp-overview-widget&utm_medium=wp-dash&utm_campaign=news-feed"
+    }
+    ,
+    {
+        "title": "Monthly Template Kits #6: The Magazine Template Kit", "excerpt": "This month\u2019s template kit will enable you to create amazing looking blogs and magazines. Meet the Magazine Template Kit.\u00a0", "created": "1579071877", "badge": "Freebie", "url": "https:\/\/elementor.com\/blog\/magazine-template-kit\/?utm_source=wp-overview-widget&utm_medium=wp-dash&utm_campaign=news-feed"
+    }
+    ,
+    {
+        "title": "Elementor Sites of the Month \u2013 December 2019", "excerpt": "Here are our top picks of Elementor sites for December 2019. Check them out!", "created": "1578908299", "badge": "", "url": "https:\/\/elementor.com\/blog\/showcase-december-2019\/?utm_source=wp-overview-widget&utm_medium=wp-dash&utm_campaign=news-feed"
+    }
+    ],
+    "pro_widgets":[ {
+        "name": "woocommerce-product-add-to-cart", "title": "Add To Cart", "icon": "eicon-product-add-to-cart", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-additional-information", "title": "Additional Information", "icon": " eicon-product-info", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "animated-headline", "title": "Animated Headline", "icon": "eicon-animated-headline", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-archive-description", "title": "Archive Description", "icon": "eicon-product-description", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "archive-posts", "title": "Archive Posts", "icon": "eicon-archive-posts", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "wc-archive-products", "title": "Archive Products", "icon": "eicon-products", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "theme-archive-title", "title": "Archive Title", "icon": "eicon-archive-title", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "author-box", "title": "Author Box", "icon": "eicon-person", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "blockquote", "title": "Blockquote", "icon": "eicon-blockquote", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "breadcrumbs", "title": "Breadcrumbs", "icon": "eicon-yoast", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "call-to-action", "title": "Call to Action", "icon": "eicon-image-rollover", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "countdown", "title": "Countdown", "icon": "eicon-countdown", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "wc-add-to-cart", "title": "Custom Add To Cart", "icon": "eicon-woocommerce", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "facebook-button", "title": "Facebook Button", "icon": "eicon-facebook-like-box", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "facebook-comments", "title": "Facebook Comments", "icon": "eicon-facebook-comments", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "facebook-embed", "title": "Facebook Embed", "icon": "eicon-fb-embed", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "facebook-page", "title": "Facebook Page", "icon": "eicon-fb-feed", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "theme-post-featured-image", "title": "Featured Image", "icon": "eicon-featured-image", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "flip-box", "title": "Flip Box", "icon": "eicon-flip-box", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "form", "title": "Form", "icon": "eicon-form-horizontal", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "gallery", "title": "Gallery", "icon": "eicon-gallery-justified", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "login", "title": "Login", "icon": "eicon-lock-user", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "media-carousel", "title": "Media Carousel", "icon": "eicon-media-carousel", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-menu-cart", "title": "Menu Cart", "icon": "eicon-cart", "categories": "[\"theme-elements\",\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "nav-menu", "title": "Nav Menu", "icon": "eicon-nav-menu", "categories": "[\"pro-elements\",\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "theme-page-title", "title": "Page Title", "icon": "eicon-archive-title", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "portfolio", "title": "Portfolio", "icon": "eicon-gallery-grid", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "post-comments", "title": "Post Comments", "icon": "eicon-comments", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "theme-post-excerpt", "title": "Post Excerpt", "icon": "eicon-post-excerpt", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "post-info", "title": "Post Info", "icon": "eicon-post-info", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "post-navigation", "title": "Post Navigation", "icon": "eicon-post-navigation", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "theme-post-title", "title": "Post Title", "icon": "eicon-post-title", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "posts", "title": "Posts", "icon": "eicon-post-list", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "price-list", "title": "Price List", "icon": "eicon-price-list", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "price-table", "title": "Price Table", "icon": "eicon-price-table", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "wc-categories", "title": "Product Categories", "icon": "eicon-product-categories", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-data-tabs", "title": "Product Data Tabs", "icon": "eicon-product-tabs", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-images", "title": "Product Images", "icon": "eicon-product-images", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-meta", "title": "Product Meta", "icon": "eicon-product-meta", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-price", "title": "Product Price", "icon": "eicon-product-price", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-rating", "title": "Product Rating", "icon": "eicon-product-rating", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-related", "title": "Product Related", "icon": "eicon-product-related", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-stock", "title": "Product Stock", "icon": "eicon-product-stock", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-title", "title": "Product Title", "icon": "eicon-product-title", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-products", "title": "Products", "icon": "eicon-products", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "reviews", "title": "Reviews", "icon": "eicon-review", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "search-form", "title": "Search Form", "icon": "eicon-site-search", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "share-buttons", "title": "Share Buttons", "icon": "eicon-share", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-short-description", "title": "Short Description", "icon": "eicon-product-description", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "theme-site-logo", "title": "Site Logo", "icon": "eicon-site-logo", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "theme-site-title", "title": "Site Title", "icon": "eicon-site-title", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "sitemap", "title": "Sitemap", "icon": "eicon-sitemap", "categories": "[\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "slides", "title": "Slides", "icon": "eicon-slides", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "table-of-contents", "title": "Table of Contents", "icon": "eicon-table-of-contents", "categories": "[\"pro-elements\",\"theme-elements\"]"
+    }
+    ,
+    {
+        "name": "template", "title": "Template", "icon": "eicon-document-file", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "testimonial-carousel", "title": "Testimonial Carousel", "icon": "eicon-testimonial-carousel", "categories": "[\"pro-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-product-upsell", "title": "Upsells", "icon": "eicon-product-upsell", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "woocommerce-breadcrumb", "title": "WooCommerce Breadcrumbs", "icon": "eicon-product-breadcrumbs", "categories": "[\"woocommerce-elements\"]"
+    }
+    ,
+    {
+        "name": "wc-elements", "title": "WooCommerce Pages", "icon": "eicon-product-pages", "categories": "[\"woocommerce-elements\"]"
+    }
+    ],
+    "canary_deployment": {
+        "plugin_info": {
+            "id":"w.org\/plugins\/elementor",
+            "slug":"elementor",
+            "plugin":"elementor\/elementor.php",
+            "new_version":"2.8.0",
+            "package":"https:\/\/downloads.wordpress.org\/plugin\/elementor.2.8.0.zip",
+            "url":"https:\/\/wordpress.org\/plugins\/elementor\/",
+            "icons": {
+                "2x": "https:\/\/ps.w.org\/elementor\/assets\/icon-256x256.png?rev=1427768", "1x": "https:\/\/ps.w.org\/elementor\/assets\/icon.svg?rev=1426809", "svg": "https:\/\/ps.w.org\/elementor\/assets\/icon.svg?rev=1426809"
+            }
+            ,
+            "banners": {
+                "2x": "https:\/\/ps.w.org\/elementor\/assets\/banner-1544x500.png?rev=1475479", "1x": "https:\/\/ps.w.org\/elementor\/assets\/banner-772x250.png?rev=1475479"
+            }
+            ,
+            "banners_rtl":[],
+            "tested":"5.3.0",
+            "requires_php":"5.4"
+        }
+        ,
+        "conditions":[[ {
+            "type": "language", "languages": ["he_IL", "en_GB", "en_NZ", "en_ZA", "en_AU", "en_CA"], "operator": "in"
+        }
+        ]]
+    }
+}
